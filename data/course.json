@@ -1,0 +1,34 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Aerospace Engineering",
+      "Structural Mechanics"
+    ],
+    [
+      "Engineering",
+      "Aerospace Engineering",
+      "Materials Selection"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "c52a2cd3-e2b0-3da9-77a3-0aa88635c03b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Techniques for Structural Analysis and Design",
+  "course_description": "This course introduces analysis techniques for complex structures and the role of material properties in structural design, failure, and longevity. Students will learn about the energy principles in structural analysis and their applications to statically-indeterminate structures and solid continua. Additionally, the course will examine matrix and finite-element methods of structured analysis including bars, beams, and two-dimensional plane stress elements. Structural materials and their properties will be considered, as will metals and composites. Other topics include modes of structural failure, criteria for yielding and fracture, crack formation and fracture mechanics, and fatigue and design for longevity. Students are expected to apply these concepts to their own structural design projects.\n",
+  "department_numbers": [
+    "16"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "16.21",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams with Solutions",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
